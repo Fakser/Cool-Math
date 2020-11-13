@@ -1,7 +1,7 @@
 # Cool-Math
 Some cool math problems i have solved with matlab<br>
 
-## Gradient Descent on some reactor
+## Gradient Descent for optimizing reactor (?yes it just works)
 
 ![meme1](./gradient_reactor/to_readme.jpeg)
 
